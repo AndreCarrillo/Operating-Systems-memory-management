@@ -1,5 +1,7 @@
 // assignment3.1.cpp : Defines the entry point for the console application.
 //
+
+//#include "stdafx.h"
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
